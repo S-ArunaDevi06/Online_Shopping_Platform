@@ -1,0 +1,5 @@
+C2500 tshirt nike 234.0 2 tshitimage.jpeg
+C7763 shorts abc 2432.0 3 shortsimage.jpeg
+C5403 Jeans ABC 800.0 23 jeanpant.jpeg
+
+C2747 Jean abc 500.0 40 jeanpant.jpeg
